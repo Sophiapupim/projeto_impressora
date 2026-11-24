@@ -5,7 +5,8 @@ Projeto de Programação Orientada a Objetos em Java para controlar uma impresso
 ## Integrantes
 
 - Eloisa Silveira — https://github.com/eloisasilveira
-- Maria Rita
+- Maria Rita Vicente -
+https://github.com/vicenterta
 - Sophia Pupim
 
 ## Requisitos
